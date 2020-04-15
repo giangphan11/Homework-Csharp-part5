@@ -1,0 +1,10 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\bin\Debug\CSDL Connection.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\bin\Debug\CSDL Connection.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\bin\Debug\CSDL Connection.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL Connection.csprojAssemblyReference.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL_Connection.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL_Connection.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL Connection.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL Connection.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL Connection.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\CSDL Connection\obj\Debug\CSDL Connection.pdb
