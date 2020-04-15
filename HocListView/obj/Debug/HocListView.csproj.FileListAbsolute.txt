@@ -1,0 +1,11 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\bin\Debug\HocListView.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\bin\Debug\HocListView.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\bin\Debug\HocListView.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.csprojAssemblyReference.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocListView\obj\Debug\HocListView.Form2.resources

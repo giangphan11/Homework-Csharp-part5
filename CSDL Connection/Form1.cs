@@ -25,9 +25,13 @@ namespace CSDL_Connection
         {
             try
             {
-                conn = new SqlConnection(strConnection);
-                conn.Open();
-                MessageBox.Show("Kết nối CSDL thành công !");
+                if(conn==null)
+                    conn = new SqlConnection(strConnection);
+                if (conn.State == ConnectionState.Closed)
+                {
+                    conn.Open();
+                    MessageBox.Show("Kết nối CSDL thành công !");
+                }
                     }
             catch(Exception ex)
             {

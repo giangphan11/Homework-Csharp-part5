@@ -1,0 +1,9 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\bin\Debug\HocDataGridView.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\bin\Debug\HocDataGridView.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\bin\Debug\HocDataGridView.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\HocDataGridView\obj\Debug\HocDataGridView.pdb

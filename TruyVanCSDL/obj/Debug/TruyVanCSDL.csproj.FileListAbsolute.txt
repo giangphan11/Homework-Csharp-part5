@@ -1,0 +1,10 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\bin\Debug\TruyVanCSDL.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\bin\Debug\TruyVanCSDL.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\bin\Debug\TruyVanCSDL.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.csprojAssemblyReference.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.pdb
