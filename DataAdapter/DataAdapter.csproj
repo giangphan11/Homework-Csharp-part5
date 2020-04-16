@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{78B70A47-339E-47C9-B03B-203BD01D15E0}</ProjectGuid>
+    <ProjectGuid>{D1FB1144-C534-4710-B837-267B88421BD4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TruyVanCSDL</RootNamespace>
-    <AssemblyName>TruyVanCSDL</AssemblyName>
+    <RootNamespace>DataAdapter</RootNamespace>
+    <AssemblyName>DataAdapter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -58,7 +58,6 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
-    <Compile Include="models\DanhMuc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

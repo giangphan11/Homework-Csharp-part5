@@ -41,6 +41,12 @@
             this.txtSoLuong = new System.Windows.Forms.TextBox();
             this.btnXemThongTin2 = new System.Windows.Forms.Button();
             this.txtLoi = new System.Windows.Forms.TextBox();
+            this.lvSanPham = new System.Windows.Forms.ListView();
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnXemToanBoSanPham = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -166,11 +172,61 @@
             this.txtLoi.Size = new System.Drawing.Size(84, 101);
             this.txtLoi.TabIndex = 6;
             // 
+            // lvSanPham
+            // 
+            this.lvSanPham.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1,
+            this.columnHeader2,
+            this.columnHeader3,
+            this.columnHeader4});
+            this.lvSanPham.FullRowSelect = true;
+            this.lvSanPham.GridLines = true;
+            this.lvSanPham.HideSelection = false;
+            this.lvSanPham.Location = new System.Drawing.Point(80, 407);
+            this.lvSanPham.Name = "lvSanPham";
+            this.lvSanPham.Size = new System.Drawing.Size(671, 338);
+            this.lvSanPham.TabIndex = 8;
+            this.lvSanPham.UseCompatibleStateImageBehavior = false;
+            this.lvSanPham.View = System.Windows.Forms.View.Details;
+            this.lvSanPham.SelectedIndexChanged += new System.EventHandler(this.lvSanPham_SelectedIndexChanged);
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Mã";
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Tên";
+            this.columnHeader2.Width = 150;
+            // 
+            // columnHeader3
+            // 
+            this.columnHeader3.Text = "Giá";
+            this.columnHeader3.Width = 100;
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "Số lượng";
+            this.columnHeader4.Width = 100;
+            // 
+            // btnXemToanBoSanPham
+            // 
+            this.btnXemToanBoSanPham.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnXemToanBoSanPham.Location = new System.Drawing.Point(446, 345);
+            this.btnXemToanBoSanPham.Name = "btnXemToanBoSanPham";
+            this.btnXemToanBoSanPham.Size = new System.Drawing.Size(305, 49);
+            this.btnXemToanBoSanPham.TabIndex = 9;
+            this.btnXemToanBoSanPham.Text = "Xem Toàn bộ sản phẩm";
+            this.btnXemToanBoSanPham.UseVisualStyleBackColor = true;
+            this.btnXemToanBoSanPham.Click += new System.EventHandler(this.btnXemToanBoSanPham_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1109, 757);
+            this.Controls.Add(this.btnXemToanBoSanPham);
+            this.Controls.Add(this.lvSanPham);
             this.Controls.Add(this.btnXemThongTin2);
             this.Controls.Add(this.txtLoi);
             this.Controls.Add(this.txtSoLuong);
@@ -207,6 +263,12 @@
         private System.Windows.Forms.TextBox txtSoLuong;
         private System.Windows.Forms.Button btnXemThongTin2;
         private System.Windows.Forms.TextBox txtLoi;
+        private System.Windows.Forms.ListView lvSanPham;
+        private System.Windows.Forms.Button btnXemToanBoSanPham;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
     }
 }
 

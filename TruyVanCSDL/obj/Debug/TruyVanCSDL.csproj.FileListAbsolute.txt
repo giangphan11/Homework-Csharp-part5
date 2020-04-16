@@ -8,3 +8,4 @@ D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.csproj.
 D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.csproj.CoreCompileInputs.cache
 D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.exe
 D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\TruyVanCSDL\obj\Debug\TruyVanCSDL.Form2.resources

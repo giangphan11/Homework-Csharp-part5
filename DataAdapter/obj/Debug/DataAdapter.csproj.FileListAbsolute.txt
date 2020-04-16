@@ -1,0 +1,11 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\bin\Debug\DataAdapter.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\bin\Debug\DataAdapter.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\bin\Debug\DataAdapter.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.csprojAssemblyReference.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\DataAdapter\obj\Debug\DataAdapter.Form2.resources

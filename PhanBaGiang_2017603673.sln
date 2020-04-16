@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5.1", "Bai5.1\Bai5.1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocDataGridView", "HocDataGridView\HocDataGridView.csproj", "{C0810651-1031-433D-9EC5-00B01C566A4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapter", "DataAdapter\DataAdapter.csproj", "{D1FB1144-C534-4710-B837-267B88421BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C0810651-1031-433D-9EC5-00B01C566A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0810651-1031-433D-9EC5-00B01C566A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0810651-1031-433D-9EC5-00B01C566A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FB1144-C534-4710-B837-267B88421BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FB1144-C534-4710-B837-267B88421BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FB1144-C534-4710-B837-267B88421BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FB1144-C534-4710-B837-267B88421BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

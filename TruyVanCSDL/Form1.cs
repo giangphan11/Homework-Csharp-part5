@@ -118,6 +118,48 @@ namespace TruyVanCSDL
                 txtLoi.Text = ex.Message;
             }
         }
+
+        private void btnXemToanBoSanPham_Click(object sender, EventArgs e)
+        {
+            if (conn == null)
+            {
+                conn = new SqlConnection(strConnection);
+            }
+            if (conn.State == ConnectionState.Closed)
+                conn.Open();
+            SqlCommand command = new SqlCommand();
+            command.CommandType = CommandType.Text;
+            command.CommandText = "select * from SanPham";
+            command.Connection = conn;
+
+            SqlDataReader reader = command.ExecuteReader();
+
+            lvSanPham.Items.Clear();
+            while (reader.Read())
+            {
+                string ma = reader.GetString(0);
+                string ten = reader.GetString(1);
+                int gia = reader.GetInt32(2);
+                int sl = reader.GetInt32(3);
+                ListViewItem item = new ListViewItem(ma);
+                item.SubItems.Add(ten);
+                item.SubItems.Add(gia+"");
+                item.SubItems.Add(sl+"");
+                lvSanPham.Items.Add(item);
+            }
+            reader.Close();
+        }
+
+        private void lvSanPham_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (lvSanPham.SelectedItems.Count > 0)
+            {
+                ListViewItem item = lvSanPham.SelectedItems[0];
+                txtTen.Text = item.SubItems[1].Text;
+                txtDonGia.Text = item.SubItems[2].Text;
+                txtSoLuong.Text = item.SubItems[3].Text;
+            }
+        }
     }
     
 }
